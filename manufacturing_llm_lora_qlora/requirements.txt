@@ -1,0 +1,9 @@
+transformers
+datasets
+accelerate
+peft
+trl
+bitsandbytes
+sentencepiece
+groq
+python-dotenv

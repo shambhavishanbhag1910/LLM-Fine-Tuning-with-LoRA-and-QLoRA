@@ -1,0 +1,36 @@
+{
+  "name": "Synthetic Manufacturing Maintenance Instruction Dataset",
+  "total_cases": 360,
+  "train_cases": 280,
+  "validation_cases": 40,
+  "test_cases": 40,
+  "synthetic": true,
+  "categories": [
+    "bearing_degradation",
+    "compressor_overheating",
+    "cooling_flow_loss",
+    "fastener_torque_failure",
+    "gear_or_bearing_damage",
+    "hydraulic_pressure_loss",
+    "low_hardness",
+    "motor_overload",
+    "paint_orange_peel",
+    "sensor_contamination",
+    "short_shot",
+    "weld_porosity"
+  ],
+  "components": [
+    "air_compressor",
+    "conveyor_motor",
+    "gearbox",
+    "heat_treatment_furnace",
+    "hydraulic_press",
+    "injection_molding_machine",
+    "paint_booth",
+    "photoelectric_sensor",
+    "spindle_bearing",
+    "supplier_shaft",
+    "torque_tool",
+    "welding_cell"
+  ]
+}
